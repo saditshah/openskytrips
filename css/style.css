@@ -334,6 +334,7 @@ body {
 
 .rowfooter {
     display: flex;
+    justify-content: center;
     border-top: 1px solid #454b56;
     border-bottom: 1px solid #454b56;
     margin: 0 -15px;
